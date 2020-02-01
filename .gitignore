@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# From Marketplace
+Content/MultistoryDungeons/*
+Content/HQ_ResidentialHouse/*
