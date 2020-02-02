@@ -76,3 +76,6 @@ DerivedDataCache/*
 # From Marketplace
 Content/MultistoryDungeons/*
 Content/HQ_ResidentialHouse/*
+
+# Release folder
+Release/*
